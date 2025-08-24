@@ -8,4 +8,3 @@
 - [Java List](https://www.hackerrank.com/challenges/java-list/problem)
 - [Java Map](https://www.hackerrank.com/challenges/phone-book/problem)
 - [Java HashSet](https://www.hackerrank.com/challenges/java-hashset/problem)
-ß
