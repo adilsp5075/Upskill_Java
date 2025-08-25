@@ -1,6 +1,6 @@
-# Daily Topics & Resources
+# Week Topics & Resources
 
-## Day 1: Core Java - OOP & Collections
+## Week 1: Core Java - OOP & Collections
 - **Topics:** Inheritance, Polymorphism, Encapsulation, Abstraction, Collections Framework
 - **Resources:**
   - [Java OOP Concepts - GeeksforGeeks](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
